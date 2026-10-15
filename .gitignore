@@ -1,0 +1,10 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+.demo_state.json
+.demo_state.json.tmp
+.pending_webhook_events.json
+.pending_webhook_events.json.tmp
+.demo_runs/

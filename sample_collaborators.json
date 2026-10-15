@@ -1,0 +1,14 @@
+[
+  {
+    "role": "reviewer",
+    "display_name": "Demo Reviewer",
+    "box_user_id_env": "BOX_REVIEWER_USER_ID",
+    "when_added": "Seed time; receives the Box review task"
+  },
+  {
+    "role": "insurance_specialist",
+    "display_name": "Demo Insurance Specialist",
+    "box_user_id_env": "BOX_SPECIALIST_USER_ID",
+    "when_added": "Added to the uploaded file only when Decisions routes an endorsement or specialist review"
+  }
+]
